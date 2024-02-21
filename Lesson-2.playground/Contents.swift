@@ -1,3 +1,11 @@
 import UIKit
 
-var greeting = "Hello, playground"
+//comments
+
+/*
+ comments too
+ */
+
+let personalName: String = "Peter"
+let personA = "John"
+
